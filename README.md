@@ -1,6 +1,6 @@
 # Portfolio
 My past projects:
-GenericBST- BST with generics
-SkipList - Probabilistic data structure with an O(logn) search and insertion
-RunLikeHell - dynamic programming in Java
+| BST with Generics- Binary Search Tree with generics compatability.
+| SkipList - Probabilistic data structure (SkipList) with an O(logn) search and insertion.
+| NonConsecutiveSum - dynamic programming in Java.
 
